@@ -4,7 +4,7 @@ CartONG.config = {};
 
 CartONG.config.content = {
   header: 'GeOnG 2018',
-  subHeader: 'JPR',
+  subHeader: 'TEST',
   description: 'Get started with Github',
   source: 'https://photon.komoot.de/'
 };
